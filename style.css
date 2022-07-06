@@ -4,10 +4,13 @@ body{
 }
 h1{
     font-size: 30px
+    
+    
 }
 pre{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 15px
+    
 }
 
 p{
@@ -27,6 +30,7 @@ p{
         background-repeat: no-repeat;
         height: 300px;
         background-size: cover;
+        margin: none;
 
     }
 
@@ -118,4 +122,35 @@ footer{
     font-size: 50ppx;
     text-align: center;
     padding-top: 30px;
+}
+.div-second{
+width: 50%;
+
+}
+#div-id{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-align: center;
+}
+.div-second img{
+    width: 80%;
+}
+.coloring{
+    color: tomato;
+
+}
+.input-box{
+    color: rgb(103, 84, 84);
+    background-color: rgb(158, 153, 153);
+    padding: 20px 10px;
+    margin: 50px 250px;
+    
+}
+#input-style{
+    border: 2px solid rgb(169, 164, 164);
+    padding: 10px;
+    margin-right: -5px;
+}
+.margin-text{
+    margin-top: 100px;
 }

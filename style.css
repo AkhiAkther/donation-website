@@ -1,0 +1,121 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+h1{
+    font-size: 30px
+}
+pre{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px
+}
+
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    font-size: 15px
+    
+}
+.button{
+    color:white;
+    background-color: tomato;
+    border: none;
+    padding: 10px 15px;
+    }
+    .background{
+        background-image: url(images/donation6.jpg);
+        background-repeat: no-repeat;
+        height: 300px;
+        background-size: cover;
+
+    }
+
+.first-div{
+    color: white;
+    
+}
+.pre-size{
+    font-size: 10px;
+}
+.container{
+    color: gray;
+    border: 2px solid rgb(210, 206, 206);
+    margin: 20px;
+    padding: 30px 30px;
+    background-color: rgb(216, 203, 203);
+    width: 70px;
+    
+}
+.flexable-container{
+    display: flex;
+}
+.set-margin{
+    margin-left: 25%
+}
+#h2-custom{
+    color: rgb(186, 37, 37);
+    border: 3px solid tomato;
+    background-color: rgb(255, 142, 142);
+    
+}
+.style{
+    border: none;
+    color: gray;
+    font-size: 15px
+}
+#line{
+    width: 40%;
+
+}
+.food{
+    width: 40%;
+    height: 10%;
+    margin: 20px;
+    padding: 100px 20px 25px 30px;
+    background-color: rgb(174, 186, 191);
+    text-align: left;
+    background-image: url(images/food.png);
+    background-repeat: no-repeat;
+    background-position: 20px 30px;
+    
+    
+    
+
+}
+.shelter{
+width: 40%;
+height: 10%;
+margin:20px ;
+padding:100px 20px 25px 30px;
+background-color: rgb(170, 145, 145);
+text-align: left;
+background-image: url(images/shelter.png);
+background-repeat: no-repeat;
+background-position: 20px 30px;
+}
+.education{
+    width: 40%;
+    height: 10%;
+    margin: 20px ;
+    padding: 100px 20px 25px 30px;
+    background-color:rgb(241, 191, 98);
+    text-align: left;
+    background-image: url(images/Frame-1.png);
+    background-repeat: no-repeat;
+    background-position: 20px 30px;
+
+}
+footer{
+    height: 130px;
+    width:100% ;
+    background-color: black;
+    
+    
+}
+.footer-text{
+    color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50ppx;
+    text-align: center;
+    padding-top: 30px;
+}
